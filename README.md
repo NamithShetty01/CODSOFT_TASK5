@@ -26,7 +26,7 @@ CODSOFT_TASK5/
 ├── face_detection.py
 ├── requirements.txt
 ├── known_faces/
-│   └── namith.jpg
+│   └── reference.jpg
 ├── README.md
 └── .git/
 ```
@@ -69,7 +69,7 @@ pip install -r requirements.txt
 4. Place your reference face image in:
 
 ```text
-known_faces/namith.jpg
+known_faces/reference.jpg
 ```
 
 The app expects a clear frontal face image for matching.
